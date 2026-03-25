@@ -75,10 +75,24 @@
         "background_gradient": "",
         "text_color": "#000000"
       }
+    },
+    "custom_liquid_dcEg7B": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"width: 100%; overflow: hidden;\">\n  <video \n    autoplay \n    muted \n    loop \n    playsinline \n    preload=\"auto\"\n    controls=\"false\"\n    disablePictureInPicture\n    style=\"width: 100%; height: auto; display: block; pointer-events: none;\"\n  >\n    <source src=\"https://cdn.shopify.com/videos/c/o/v/f16b13a367764d7b800280b2ae27aa53.mp4\" type=\"video/mp4\">\n  </video>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
-    "rich_text_93DER4"
+    "rich_text_93DER4",
+    "custom_liquid_dcEg7B"
   ]
 }
