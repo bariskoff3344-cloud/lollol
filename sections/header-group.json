@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "Header group",
@@ -5,22 +14,42 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message": {
+        "message_xVTWfD": {
           "type": "message",
           "settings": {
-            "text": "Announce something here"
+            "text": "coucou les",
+            "url": ""
+          }
+        },
+        "message_NiJVTJ": {
+          "type": "message",
+          "settings": {
+            "text": "enfant de merde",
+            "url": ""
+          }
+        },
+        "message_LqYzwN": {
+          "type": "message",
+          "settings": {
+            "text": "de connard",
+            "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message_xVTWfD",
+        "message_NiJVTJ",
+        "message_LqYzwN"
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "autoplay": false,
+        "cycle_speed": 4,
+        "text_size": "text-lg",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#5b5661",
+        "background_gradient": "",
         "text_color": "#ffffff"
       }
     },
@@ -33,10 +62,14 @@
         "logo_max_width": 120,
         "logo_mobile_max_width": 100,
         "menu": "main-menu",
+        "sidebar_menu": "main-menu",
+        "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
         "layout": "logo_left_navigation_center",
         "show_social_media": true,
+        "show_locale_selector": true,
+        "show_country_selector": true,
         "show_country_flag": true,
         "show_country_name": false,
         "transparent_header_text_color": "#ffffff",
