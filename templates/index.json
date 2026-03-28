@@ -15,7 +15,8 @@
         "slide-1": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/gta-6-game-art-5k-5120x3200-14300.jpg",
+            "image": "shopify://shop_images/hf_20260328_172252_3e74b3fa-13ea-467e-9e2a-c949d352578a.png",
+            "mobile_image": "shopify://shop_images/hf_20260328_172252_3e74b3fa-13ea-467e-9e2a-c949d352578a.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",

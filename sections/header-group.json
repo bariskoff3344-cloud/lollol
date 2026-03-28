@@ -14,31 +14,15 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "message_xVTWfD": {
-          "type": "message",
-          "settings": {
-            "text": "coucou les",
-            "url": ""
-          }
-        },
-        "message_NiJVTJ": {
-          "type": "message",
-          "settings": {
-            "text": "enfant de merde",
-            "url": ""
-          }
-        },
         "message_LqYzwN": {
           "type": "message",
           "settings": {
-            "text": "de connard",
+            "text": "PROMOTIONS D'HIVER + LIVRAISON GRATUITE AUJOURD'HUI SEULEMENT !",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message_xVTWfD",
-        "message_NiJVTJ",
         "message_LqYzwN"
       ],
       "settings": {
@@ -46,9 +30,9 @@
         "autoplay": false,
         "cycle_speed": 4,
         "text_size": "text-lg",
-        "navigation_mode": "scrolling",
+        "navigation_mode": "arrows",
         "scrolling_speed": 10,
-        "background": "#5b5661",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
