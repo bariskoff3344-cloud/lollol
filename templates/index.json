@@ -70,7 +70,7 @@
         "full_width": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"text-align: center; margin: 40px 0;\">\n\n  <!-- Ligne + texte -->\n  <div style=\"display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px;\">\n    \n    <div style=\"width: 60px; height: 1px; background-color: #00E5D4;\"></div>\n    \n    <div style=\"color: #00E5D4; font-size: 14px; letter-spacing: 2px; text-transform: uppercase;\">\n      NOTRE COLLECTION\n    </div>\n    \n    <div style=\"width: 60px; height: 1px; background-color: #00E5D4;\"></div>\n  \n  </div>\n\n  <!-- Texte blanc -->\n  <div style=\"color: #ffffff; font-size: 28px; font-weight: 500;\">\n    Les enfants sont obsédés par les peluches phosphorescentes.\n  </div>\n\n</div>",
+        "liquid": "<div style=\"text-align: center; margin: 40px 0;\">\n\n  <!-- Ligne + texte -->\n  <div style=\"display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px;\">\n    \n    <div style=\"width: 60px; height: 1px; background-color: #00E5D4;\"></div>\n    \n    <div style=\"color: #00E5D4; font-size: 14px; letter-spacing: 2px; text-transform: uppercase;\">\n      NOTRE COLLECTION\n    </div>\n    \n    <div style=\"width: 60px; height: 1px; background-color: #00E5D4;\"></div>\n  \n  </div>\n\n  <!-- Texte blanc -->\n  <div style=\"color: #ffffff; font-size: 28px; font-weight: 500;\">\n    Les peluches lumineuses dont tous les enfants parlent\n  </div>\n\n</div>",
         "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": ""
