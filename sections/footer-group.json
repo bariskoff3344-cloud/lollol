@@ -11,76 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "collection_list_RfbbDA": {
-      "type": "collection-list",
-      "blocks": {
-        "collection_Hgyxnd": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_KFeNEH": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection_myPFTR": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "subheading": "",
-            "title": "",
-            "url": "",
-            "heading_tag": "h2",
-            "text_position": "place-self-center text-center",
-            "text_color": "#ffffff",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection_Hgyxnd",
-        "collection_KFeNEH",
-        "collection_myPFTR"
-      ],
-      "name": "Collection list",
-      "settings": {
-        "full_width": true,
-        "stack_collections": false,
-        "collections_per_row_mobile": "2",
-        "collections_per_row": 4,
-        "show_progress_bar": false,
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
-        "background": "#1a1a1a",
-        "background_gradient": "",
-        "text_color": "#ffffff",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -127,7 +57,6 @@
     }
   },
   "order": [
-    "collection_list_RfbbDA",
     "footer"
   ]
 }
