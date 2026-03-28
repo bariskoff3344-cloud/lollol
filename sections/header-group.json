@@ -56,7 +56,7 @@
         "mega_menu_9BEDbn"
       ],
       "settings": {
-        "enable_sticky": true,
+        "enable_sticky": false,
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/okiokkk.png",
         "logo_max_width": 180,

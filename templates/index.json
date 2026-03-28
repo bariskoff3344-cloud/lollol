@@ -53,20 +53,6 @@
     },
     "rich_text_93DER4": {
       "type": "rich-text",
-      "blocks": {
-        "heading_XR4Drx": {
-          "type": "heading",
-          "settings": {
-            "text": "Vu sur :",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_XR4Drx"
-      ],
       "name": "Rich text",
       "settings": {
         "full_width": true,
@@ -77,15 +63,15 @@
         "text_color": "#000000"
       }
     },
-    "custom_liquid_dcEg7B": {
+    "custom_liquid_epYDy6": {
       "type": "custom-liquid",
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
         "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": true,
-        "liquid": "<div style=\"width: 100%; overflow: hidden;\">\n  <video \n    autoplay \n    muted \n    loop \n    playsinline \n    preload=\"auto\"\n    controls=\"false\"\n    disablePictureInPicture\n    style=\"width: 100%; height: auto; display: block; pointer-events: none;\"\n  >\n    <source src=\"https://cdn.shopify.com/videos/c/o/v/f16b13a367764d7b800280b2ae27aa53.mp4\" type=\"video/mp4\">\n  </video>\n</div>",
-        "background": "#ffffff",
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"text-align: center; margin: 40px 0;\">\n  \n  <!-- Titre bleu -->\n  <div style=\"color: #00E5D4; font-size: 14px; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 10px;\">\n    NOTRE COLLECTION\n  </div>\n\n  <!-- Texte blanc -->\n  <div style=\"color: #ffffff; font-size: 28px; font-weight: 500;\">\n    Les enfants sont obsédés par les peluches phosphorescentes.\n  </div>\n\n</div>",
+        "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": ""
       }
@@ -94,6 +80,6 @@
   "order": [
     "slideshow",
     "rich_text_93DER4",
-    "custom_liquid_dcEg7B"
+    "custom_liquid_epYDy6"
   ]
 }
