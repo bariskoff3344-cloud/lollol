@@ -417,7 +417,7 @@
   "password": {
     "general": {
       "follow_us": "Nous suivre",
-      "powered_by": " ",
+      "powered_by": " © 2026 Lumio – Tous droits réservés",
       "store_owner": "Gérant de la boutique ?",
       "login": "Se connecter"
     },
@@ -442,7 +442,7 @@
   },
   "shopify": {
     "links": {
-      "powered_by_shopify": " © 2026 Lumio – Tous droits réservés"
+      "powered_by_shopify": " "
     }
   }
 }
