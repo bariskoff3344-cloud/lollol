@@ -69,6 +69,14 @@
         "conversion_bear_trust_badges_widget_9JNUbG": {
           "type": "shopify://apps/conversion-bear-trust-badges/blocks/widget/163a9b59-0ec2-4cb7-bf5c-31408b4a9420",
           "settings": {}
+        },
+        "image_rKRbia": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/13c549892cae4c03f8505cd43ffcc35a.png",
+            "alignment": "start",
+            "max_width": 500
+          }
         }
       },
       "block_order": [
@@ -80,7 +88,8 @@
         "description",
         "variant_picker",
         "buy_buttons",
-        "conversion_bear_trust_badges_widget_9JNUbG"
+        "conversion_bear_trust_badges_widget_9JNUbG",
+        "image_rKRbia"
       ],
       "settings": {
         "full_width": true,
