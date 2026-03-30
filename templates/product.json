@@ -12,25 +12,15 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "vendor",
-          "settings": {}
-        },
-        "title": {
-          "type": "title",
+        "liquid_qVejEx": {
+          "type": "liquid",
           "settings": {
-            "heading_tag": "h2"
+            "liquid": "<div style=\"color: white;\">\n\n  <div style=\"display:flex; align-items:center; gap:8px; margin-bottom:8px;\">\n    \n    <div style=\"color:#00e0b8; font-size:18px;\">\n      ★★★★★\n    </div>\n    \n    <div style=\"font-size:14px; color:#d1d1d1;\">\n      Noté 4,9 | Excellent (2 183 avis)\n    </div>\n\n  </div>\n\n  <h1 style=\"font-size:28px; font-weight:700; margin:0;\">\n    Bébé Lumio\n  </h1>\n\n</div>"
           }
         },
         "badges": {
           "type": "badges",
           "settings": {}
-        },
-        "price": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
         },
         "rating": {
           "type": "rating",
@@ -65,10 +55,6 @@
             "size_chart_page": ""
           }
         },
-        "quantity_selector": {
-          "type": "quantity_selector",
-          "settings": {}
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -86,16 +72,13 @@
         }
       },
       "block_order": [
-        "vendor",
-        "title",
+        "liquid_qVejEx",
         "badges",
-        "price",
         "rating",
         "payment_terms",
         "separator",
         "description",
         "variant_picker",
-        "quantity_selector",
         "buy_buttons",
         "conversion_bear_trust_badges_widget_9JNUbG"
       ],
@@ -110,9 +93,9 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3,
-        "background": "",
+        "background": "#1a1a1a",
         "background_gradient": "",
-        "text_color": "",
+        "text_color": "#ffffff",
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
