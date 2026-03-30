@@ -101,12 +101,26 @@
         "product_card_background": "",
         "product_card_text_color": ""
       }
+    },
+    "custom_liquid_dWbk7D": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"display:flex; justify-content:center; align-items:center; gap:25px; flex-wrap:wrap; font-size:14px; color:#cccccc; font-weight:500;\">\n\n  <div style=\"display:flex; align-items:center; gap:8px;\">\n    <span style=\"color:#00e0ff; text-shadow:0 0 8px #00e0ff;\">✦</span>\n    <span>Plus de 30 000 enfants heureux</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:8px;\">\n    <span style=\"color:#00e0ff; text-shadow:0 0 8px #00e0ff;\">✦</span>\n    <span>Note moyenne : 4,9</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:8px;\">\n    <span style=\"color:#00e0ff; text-shadow:0 0 8px #00e0ff;\">✦</span>\n    <span>Garantie de 30 jours</span>\n  </div>\n\n  <div style=\"display:flex; align-items:center; gap:8px;\">\n    <span style=\"color:#00e0ff; text-shadow:0 0 8px #00e0ff;\">✦</span>\n    <span>Sans taches, sans encre</span>\n  </div>\n\n</div>",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "slideshow",
     "rich_text_93DER4",
     "custom_liquid_epYDy6",
-    "featured_collection_fc3eaB"
+    "featured_collection_fc3eaB",
+    "custom_liquid_dWbk7D"
   ]
 }
