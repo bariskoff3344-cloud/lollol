@@ -147,12 +147,26 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_hh347V": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<style>\n  .custom-no-space {\n    margin: 0 !important;\n    padding: 0 !important;\n  }\n</style>\n\n<div class=\"custom-no-space\">\n\n  <div style=\"\n    max-width:700px;\n    margin:0 auto;\n    padding:18px 20px;\n    border-radius:14px;\n    background:rgba(0,224,184,0.08);\n    border:1px solid rgba(0,224,184,0.25);\n    display:flex;\n    gap:12px;\n    align-items:flex-start;\n  \">\n\n    <div style=\"font-size:18px;\">💡</div>\n\n    <div style=\"\n      color:#eaeaea;\n      font-size:14px;\n      line-height:1.6;\n    \">\n      <strong>Le jouet qui remplace les écrans.</strong><br><br>\n\n      Votre enfant dessine avec la lumière, voit ses créations s’illuminer… puis disparaître comme par magie.<br><br>\n\n      Dessinez, illuminez, recommencez — sans encre, sans taches.<br><br>\n\n      Un petit moment avant de dormir, une dernière création… puis votre enfant s’endort apaisé.<br><br>\n\n      Des heures de jeu créatif, et des soirées enfin plus calmes.\n    </div>\n\n  </div>\n\n</div>",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "custom_html_3V3N37",
     "custom_liquid_nxpnL4",
-    "custom_liquid_CD3Pwe"
+    "custom_liquid_CD3Pwe",
+    "custom_liquid_hh347V"
   ]
 }
