@@ -81,7 +81,12 @@
       "name": "Featured collection",
       "settings": {
         "collection": "nos-peluches",
-        "products": [],
+        "products": [
+          "baby-lapin",
+          "baby-ours",
+          "manchot",
+          "baby-renard"
+        ],
         "full_width": false,
         "stack_products": false,
         "show_progress_bar": true,
