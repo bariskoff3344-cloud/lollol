@@ -82,10 +82,7 @@
       "settings": {
         "collection": "nos-peluches",
         "products": [
-          "baby-lapin",
-          "baby-ours",
-          "manchot",
-          "baby-renard"
+          "baby-lapin"
         ],
         "full_width": false,
         "stack_products": false,
@@ -96,8 +93,8 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "link_url": "",
-        "link_text": "Voir tout",
+        "link_url": "shopify://products/baby-lapin",
+        "link_text": "Voir tous nos Baby Lumio",
         "background": "#1a1a1a",
         "background_gradient": "",
         "text_color": "#ffffff",
