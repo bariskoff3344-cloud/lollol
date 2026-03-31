@@ -134,11 +134,25 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_CD3Pwe": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"\n  display:flex;\n  justify-content:center;\n  padding:30px 0;\n\">\n\n  <!-- CONTAINER BLEU -->\n  <div style=\"\n    background:#00e0b8;\n    padding:12px;\n    border-radius:20px;\n    box-shadow:0 10px 30px rgba(0,224,184,0.25);\n  \">\n\n    <!-- VIDEO CARREE -->\n    <div style=\"\n      width:300px;\n      height:300px;\n      overflow:hidden;\n      border-radius:14px;\n    \">\n      <video autoplay muted loop playsinline style=\"\n        width:100%;\n        height:100%;\n        object-fit:cover;\n      \">\n        <source src=\"https://cdn.shopify.com/videos/c/o/v/59d646c2eca64dccb7136d0cf1a7011b.mp4\">\n      </video>\n    </div>\n\n  </div>\n\n</div>",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
     "custom_html_3V3N37",
-    "custom_liquid_nxpnL4"
+    "custom_liquid_nxpnL4",
+    "custom_liquid_CD3Pwe"
   ]
 }
