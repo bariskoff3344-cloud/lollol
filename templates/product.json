@@ -121,10 +121,24 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_nxpnL4": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": true,
+        "liquid": "<div style=\"margin:0; padding:0;\">\n\n  <div style=\"\n    max-width:700px;\n    margin:0 auto;\n    padding:14px 18px;\n    border-radius:12px;\n    background:rgba(0,224,184,0.08);\n    border:1px solid rgba(0,224,184,0.25);\n    display:flex;\n    align-items:center;\n    gap:10px;\n  \">\n\n    <div style=\"font-size:16px;\">🛡️</div>\n\n    <div style=\"\n      color:#cfcfcf;\n      font-size:14px;\n      line-height:1.5;\n    \">\n      Lumière UV-A uniquement — le même spectre que celui utilisé dans les salons de manucure et les hôpitaux. Cliniquement prouvée sans danger pour les yeux des enfants.\n    </div>\n\n  </div>\n\n</div>",
+        "background": "#1a1a1a",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
     "main",
-    "custom_html_3V3N37"
+    "custom_html_3V3N37",
+    "custom_liquid_nxpnL4"
   ]
 }
