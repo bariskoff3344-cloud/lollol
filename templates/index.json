@@ -84,11 +84,11 @@
         "products": [
           "baby-lapin"
         ],
-        "full_width": false,
+        "full_width": true,
         "stack_products": false,
         "show_progress_bar": true,
         "products_count": 2,
-        "products_per_row_mobile": "2",
+        "products_per_row_mobile": "1",
         "products_per_row_desktop": 2,
         "subheading": "",
         "title": "",
