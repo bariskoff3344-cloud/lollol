@@ -173,6 +173,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_html_E6zy9E": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<div style=\"padding:40px 0; background:#0b0b0b;\">\n\n  <h2 style=\"text-align:center; color:white; margin-bottom:25px;\">\n    Avis clients\n  </h2>\n\n  <div style=\"\n    display:flex;\n    overflow-x:auto;\n    gap:16px;\n    padding:0 16px;\n    -webkit-overflow-scrolling:touch;\n  \">\n\n    <!-- AVIS 1 -->\n    <div style=\"min-width:280px;\">\n      <div style=\"background:#111; border-radius:16px; overflow:hidden;\">\n        <div style=\"aspect-ratio:1/1;\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0995/1510/5663/files/MMMMMMMMDDD.png?v=1774924092\" style=\"width:100%; height:100%; object-fit:cover;\">\n        </div>\n        <div style=\"padding:14px;\">\n          <div style=\"color:#00e0b8;\">★★★★★</div>\n          <div style=\"color:white; font-weight:600;\">Capucine, 29 ans</div>\n          <div style=\"color:#00e0b8; font-size:12px;\">✔ Achat vérifié</div>\n          <div style=\"color:#cfcfcf; font-size:14px; margin-top:6px;\">\n            Mon fils ne s'en lasse plus de sa peluche, il s'endort toujours avec le prénom de son amoureuse… je craque 😍\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <!-- AVIS 2 -->\n    <div style=\"min-width:280px;\">\n      <div style=\"background:#111; border-radius:16px; overflow:hidden;\">\n        <div style=\"aspect-ratio:1/1;\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0995/1510/5663/files/BBB.png?v=1774921673\" style=\"width:100%; height:100%; object-fit:cover;\">\n        </div>\n        <div style=\"padding:14px;\">\n          <div style=\"color:#00e0b8;\">★★★★★</div>\n          <div style=\"color:white; font-weight:600;\">Jessica, 39 ans</div>\n          <div style=\"color:#00e0b8; font-size:12px;\">✔ Achat vérifié</div>\n          <div style=\"color:#cfcfcf; font-size:14px; margin-top:6px;\">\n            Ma fille a trouvé en cette peluche une vraie thérapie… elle écrit son petit mot du jour et s’endort apaisée. C’est vraiment top.\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <!-- AVIS 3 -->\n    <div style=\"min-width:280px;\">\n      <div style=\"background:#111; border-radius:16px; overflow:hidden;\">\n        <div style=\"aspect-ratio:1/1;\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0995/1510/5663/files/n.png?v=1774924324\" style=\"width:100%; height:100%; object-fit:cover;\">\n        </div>\n        <div style=\"padding:14px;\">\n          <div style=\"color:#00e0b8;\">★★★★★</div>\n          <div style=\"color:white; font-weight:600;\">Cécile, 34 ans</div>\n          <div style=\"color:#00e0b8; font-size:12px;\">✔ Achat vérifié</div>\n          <div style=\"color:#cfcfcf; font-size:14px; margin-top:6px;\">\n            Pas une sieste ou un dodo sans son doudou préféré 😃\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <!-- AVIS 4 -->\n    <div style=\"min-width:280px;\">\n      <div style=\"background:#111; border-radius:16px; overflow:hidden;\">\n        <div style=\"aspect-ratio:1/1;\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0995/1510/5663/files/NNNNNNNNNNN.png?v=1774922012\" style=\"width:100%; height:100%; object-fit:cover;\">\n        </div>\n        <div style=\"padding:14px;\">\n          <div style=\"color:#00e0b8;\">★★★★★</div>\n          <div style=\"color:white; font-weight:600;\">Marnia, 40 ans</div>\n          <div style=\"color:#00e0b8; font-size:12px;\">✔ Achat vérifié</div>\n          <div style=\"color:#cfcfcf; font-size:14px; margin-top:6px;\">\n            Ma fille ne se sépare plus de son doudou… elle écrit son mot secret chaque soir avant de dormir et s’endort en le serrant contre elle. Je recommande.\n          </div>\n        </div>\n      </div>\n    </div>\n\n    <!-- AVIS 5 -->\n    <div style=\"min-width:280px;\">\n      <div style=\"background:#111; border-radius:16px; overflow:hidden;\">\n        <div style=\"aspect-ratio:1/1;\">\n          <img src=\"https://cdn.shopify.com/s/files/1/0995/1510/5663/files/QQ.png?v=1774922323\" style=\"width:100%; height:100%; object-fit:cover;\">\n        </div>\n        <div style=\"padding:14px;\">\n          <div style=\"color:#00e0b8;\">★★★★★</div>\n          <div style=\"color:white; font-weight:600;\">Cindy, 27 ans</div>\n          <div style=\"color:#00e0b8; font-size:12px;\">✔ Achat vérifié</div>\n          <div style=\"color:#cfcfcf; font-size:14px; margin-top:6px;\">\n            Meilleur jouet jusqu’à présent ! Mon fils s’éclate à dessiner dessus et s’endort avec tous les jours.\n          </div>\n        </div>\n      </div>\n    </div>\n\n  </div>\n\n</div>\n\n<style>\ndiv[style*=\"overflow-x:auto\"]::-webkit-scrollbar {\n  display:none;\n}\n</style>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -181,6 +194,7 @@
     "custom_liquid_nxpnL4",
     "custom_liquid_CD3Pwe",
     "custom_liquid_hh347V",
-    "custom_liquid_iwwPq4"
+    "custom_liquid_iwwPq4",
+    "custom_html_E6zy9E"
   ]
 }
