@@ -186,6 +186,19 @@
         "background_gradient": "",
         "text_color": ""
       }
+    },
+    "custom_liquid_J6xmgp": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"padding:40px 16px; background:#0b0b0b; color:white;\">\n\n  <!-- TITRE -->\n  <h2 style=\"\n    text-align:center; \n    margin-bottom:35px; \n    font-size:32px; \n    font-weight:800;\n  \">\n    Questions fréquentes\n  </h2>\n\n  <!-- ITEM -->\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">\n      Les Bébé Lumio nécessitent-ils des piles ou un chargement ?\n      <span class=\"faq-icon\">+</span>\n    </div>\n    <div class=\"faq-answer\">\n      Les Bébé Lumio eux-mêmes ne nécessitent aucune alimentation électrique.<br><br>\n      Le stylo lumineux inclus fonctionne avec des piles (fournies) et active l’effet lumineux de la peluche.\n    </div>\n  </div>\n\n  <!-- ITEM -->\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">\n      Combien de temps dure la luminescence ?\n      <span class=\"faq-icon\">+</span>\n    </div>\n    <div class=\"faq-answer\">\n      L’effet lumineux dure généralement environ 10 minutes, puis disparaît naturellement pour recommencer à l’infini.\n    </div>\n  </div>\n\n  <!-- ITEM -->\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">\n      Comment effacer les dessins ?\n      <span class=\"faq-icon\">+</span>\n    </div>\n    <div class=\"faq-answer\">\n      Pas besoin de gomme ! La luminescence disparaît naturellement en quelques minutes.<br><br>\n      Une fois effacée, vous pouvez dessiner à nouveau à l’infini.\n    </div>\n  </div>\n\n  <!-- ITEM -->\n  <div class=\"faq-item\">\n    <div class=\"faq-question\">\n      Que contient le pack ?\n      <span class=\"faq-icon\">+</span>\n    </div>\n    <div class=\"faq-answer\">\n      Chaque Bébé Lumio est livré avec un stylet lumineux pour créer des dessins brillants directement sur la peluche.\n    </div>\n  </div>\n\n</div>\n\n<style>\n.faq-item {\n  border-bottom:1px solid #1f1f1f;\n  padding:18px 0;\n}\n\n.faq-question {\n  display:flex;\n  justify-content:space-between;\n  align-items:center;\n  cursor:pointer;\n  font-weight:600;\n  font-size:16px;\n}\n\n.faq-icon {\n  color:#00e0b8;\n  font-size:22px;\n  transition:0.3s;\n}\n\n.faq-answer {\n  max-height:0;\n  overflow:hidden;\n  color:#cfcfcf;\n  font-size:14px;\n  line-height:1.6;\n  transition:all 0.35s ease;\n}\n\n.faq-item.active .faq-answer {\n  max-height:300px;\n  margin-top:12px;\n}\n\n.faq-item.active .faq-icon {\n  transform:rotate(45deg);\n}\n</style>\n\n<script>\ndocument.querySelectorAll('.faq-question').forEach(q => {\n  q.addEventListener('click', () => {\n    const item = q.parentElement;\n\n    document.querySelectorAll('.faq-item').forEach(el => {\n      if(el !== item) el.classList.remove('active');\n    });\n\n    item.classList.toggle('active');\n  });\n});\n</script>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
     }
   },
   "order": [
@@ -195,6 +208,7 @@
     "custom_liquid_CD3Pwe",
     "custom_liquid_hh347V",
     "custom_liquid_iwwPq4",
-    "custom_html_E6zy9E"
+    "custom_html_E6zy9E",
+    "custom_liquid_J6xmgp"
   ]
 }
