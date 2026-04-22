@@ -109,7 +109,7 @@
         "logo": "shopify://shop_images/okiokkk.png",
         "logo_max_width": 180,
         "logo_mobile_max_width": 65,
-        "menu": "main-menu",
+        "menu": "",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
