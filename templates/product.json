@@ -38,6 +38,12 @@
             "collapse_content": false
           }
         },
+        "liquid_FmkUPB": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"color: white;\">\n\n  <!-- Étoiles + avis -->\n  <div style=\"display:flex; align-items:center; gap:8px; margin-bottom:8px;\">\n    \n    <div style=\"color:#00e0b8; font-size:18px;\">\n      ★★★★★\n    </div>\n    \n    <div style=\"font-size:14px; color:#d1d1d1;\">\n      Excellent | 4,9/5 (2 183 avis)\n    </div>\n\n  </div>\n\n  <!-- Titre produit -->\n  <h1 style=\"font-size:28px; font-weight:700; margin:0;\">\n    Bébé Lumio\n  </h1>\n\n  <!-- Bénéfices -->\n  <div style=\"margin-top:12px; line-height:1.6; font-size:15px;\">\n    ✨ Apaise au moment du coucher<br>\n    💡 Remplace les écrans intelligemment<br>\n    💙 Stimule l’imagination et la créativité\n  </div>\n\n</div>"
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -79,6 +85,7 @@
         "payment_terms",
         "separator",
         "description",
+        "liquid_FmkUPB",
         "variant_picker",
         "buy_buttons",
         "conversion_bear_trust_badges_widget_9JNUbG",
