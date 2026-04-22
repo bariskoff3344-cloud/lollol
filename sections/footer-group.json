@@ -13,19 +13,6 @@
   "sections": {
     "footer": {
       "type": "footer",
-      "blocks": {
-        "text": {
-          "type": "text",
-          "settings": {
-            "title": "",
-            "content": "",
-            "enable_follow_on_shop": true
-          }
-        }
-      },
-      "block_order": [
-        "text"
-      ],
       "settings": {
         "show_social_media": true,
         "show_payment_icons": true,
